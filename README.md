@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 Backend Engineer at [@metranet](https://www.metranet.co.id/)
+- 🌱 I’m currently learning Golang
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertsw&hide_border=true&layout=compact&card_width=296)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/gilbertstefano?theme=nord&font=Stick%20No%20Bills&ext=activity)
+
 <!--
 **gilbertsw/gilbertsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
