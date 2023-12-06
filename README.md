@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Backend Engineer at [@metranet](https://www.metranet.co.id/)
+- 💻 Backend Engineer at [@metranet](https://www.metranet.co.id/)
 - 🌱 I’m currently learning Golang
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertsw&hide_border=true&layout=compact&card_width=296)
