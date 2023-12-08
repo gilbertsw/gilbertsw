@@ -3,7 +3,7 @@
 - 💻 Backend Engineer at [@metranet](https://www.metranet.co.id/)
 - 🌱 I’m currently learning Golang
 
-![gilbertsw's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilbertsw&show_icons=true&theme=dracula)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertsw&hide_border=true&layout=compact&card_width=296&theme=dracula)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/gilbertstefano?theme=nord)
 
@@ -11,6 +11,7 @@
 **gilbertsw/gilbertsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertsw&hide_border=true&layout=compact&card_width=296)
+![gilbertsw's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilbertsw&show_icons=true&theme=dracula)
 
 Here are some ideas to get you started:
 
